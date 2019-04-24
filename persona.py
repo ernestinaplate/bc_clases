@@ -1,4 +1,4 @@
-# Creat una clase Persona con atributo nombre
+# Crear una clase Persona con atributo nombre
 # Despues instanciar un objeto de tipo persona
 
 # Modificar la clase persona, agregarle un atributo edad
