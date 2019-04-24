@@ -19,3 +19,5 @@ class Dino: # Por convencion, con mayuscula
         self.patas = self.patas - 1
     
 pepito = Dino(7, "Pepito") # Aca instanciamos el objeto
+
+# HOLA
